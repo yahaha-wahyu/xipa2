@@ -2,7 +2,7 @@
 body {
     font: 18px/18px arial, sans-serif;
     background-color: #eaeaea;
-    background-image: url('../roster/sprinkles.png');
+    background-image: url('sprinkles.png');
     color: #333;
 }
 

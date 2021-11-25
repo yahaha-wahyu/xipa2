@@ -2,7 +2,7 @@
 body {
     font: 18px/18px arial, sans-serif;
     background-color: #eaeaea;
-    background-image: url('../absensi/sprinkles.png');
+    background-image: url('sprinkles.png');
     color: #333;
 }
 
@@ -48,7 +48,7 @@ body {
     padding: 280px;
     height: 380px;
     width: 40px;
-    background-image: url('../absensi/absensi.jpg');
+    background-image: url('absensi.jpg');
     background-size: cover;
     background-position: 140px 0;
 }
