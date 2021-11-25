@@ -43,7 +43,7 @@ body {
 .hero {
     height: 280px;
     width: 800px;
-    background-image: url('../home/ramping.jpg');
+    background-image: url('ramping.jpg');
     border-top: 5px solid salmon;
     border-bottom: 5px solid lightskyblue;
     background-size: cover;
